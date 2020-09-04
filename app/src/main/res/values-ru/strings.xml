@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="facebook_app_id">377400839952508</string>
+    <string name="app_name">CheckYourMath</string>
+    <string name="the_task">Это математическая задача, где каждый объект соответствует какой-то цифре.  Вам нужно вычислить значение каждого объекта и ответить на вопрос в конце. Удачи!</string>
+    <string name="got_it">Понял!</string>
+    <string name="enter_answer">Введите ответ!</string>
+    <string name="yes">Да!</string>
+    <string name="try_one_more_time">Попробуйте ещё раз!</string>
+    <string name="thats_all">Вы прошли игру! Хотите попробовать ещё раз?</string>
+    <string name="no">Нет!</string>
+</resources>
